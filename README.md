@@ -6,24 +6,24 @@ This project focuses on addressing the issue of customer churn within SyriaTel T
 
 **Project Stages**
 
-1. Business Understanding
-2. 
-3. We recognized the significance of predicting customer churn in a highly competitive telecommunications industry.
+ Business Understanding
+ 
+ We recognized the significance of predicting customer churn in a highly competitive telecommunications industry.
 The project aims to equip SyriaTel with actionable insights to proactively retain customers and ensure long-term business success.
 
-4. Data Examination
-5. 
+Data Examination
+ 
 The dataset used contains 3333 rows and 21 columns with various data types.
 There are no missing values, and no duplicated rows in the dataset.
 
-6. Exploratory Data Analysis
-7. 
+Exploratory Data Analysis
+ 
 Univariate analysis of numerical variables was performed, visualizing the distribution of each feature through histograms.
 
-9. Modeling
+Modeling
 Machine learning models were built and trained to predict customer churn.
 
-11. Recommendations
+Recommendations
 Based on the model findings and data analysis, we have made the following recommendations:
 
 **Recommendations**
