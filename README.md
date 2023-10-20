@@ -1,4 +1,4 @@
-****Customer Churn Prediction for SyriaTel Telecommunications**
+**Customer Churn Prediction for SyriaTel Telecommunications**
 
 **Project Overview**
 
@@ -21,9 +21,11 @@ Exploratory Data Analysis
 Univariate analysis of numerical variables was performed, visualizing the distribution of each feature through histograms.
 
 Modeling
+
 Machine learning models were built and trained to predict customer churn.
 
 Recommendations
+
 Based on the model findings and data analysis, we have made the following recommendations:
 
 **Recommendations**
