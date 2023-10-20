@@ -1,6 +1,6 @@
 ****Customer Churn Prediction for SyriaTel Telecommunications**
 
-Project Overview
+**Project Overview**
 
 This project focuses on addressing the issue of customer churn within SyriaTel Telecommunications, a prominent telecommunications company operating in a highly competitive industry. The primary goal is to create a classification model that predicts customer churn and identifies influential factors to inform strategies for customer retention.
 
